@@ -119,3 +119,17 @@ body {
     gap: 6.4rem;
   }
 }
+
+.attribution {
+  color: rgb(168, 168, 168);
+}
+
+.attribution a:link,
+.attribution a:visited {
+  text-decoration: none;
+  color: white;
+}
+.attribution a:hover,
+.attribution a:active {
+  text-decoration: underline;
+}
